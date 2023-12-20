@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FelixOrtiz97
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me felix.alexis.ortiz@icloud.com
 
 <!---
